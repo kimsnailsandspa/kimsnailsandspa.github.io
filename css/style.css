@@ -1,6 +1,11 @@
+.fa-instagram {
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
 header h1 {
 	animation-name: moveInLeft;
-	animation-duration: 2s;
+	animation-duration: 2s
 	animation-delay: .75s;
 }
 
